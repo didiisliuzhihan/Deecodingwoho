@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "fangzang",
+			"path": "C:/Users/Dee/Desktop/fangzang"
+		},
+		{
+			"name": "project1p5js",
+			"path": "project1p5js"
+		},
+		{
+			"name": "project2p5js",
+			"path": "project2p5js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fangzang"
+	}
+}

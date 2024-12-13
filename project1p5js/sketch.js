@@ -22,7 +22,8 @@ let stage3StartTime = 0;
 let restartButton;
 
 function preload() {
-  happyImage = loadImage("image 2.png");
+  console.log("this ran");
+  happyImage = loadImage("project1p5js/image 2.png");
   bodyPose = ml5.bodyPose("MoveNet", { flipped: true });
 }
 
@@ -31,8 +32,9 @@ function gotPoses(results) {
 }
 
 function setup() {
+  console.log("this ran");
   buttonText = "!!Switch!!";
-  createCanvas(windowWidth - 50, windowHeight - 50);
+  createCanvas(windowWidth - 50, windowHeight - 50).parent("sketch-container");
   background(1, 1, 1);
   fillTheArray(); // fill values for stage 1
   video = createCapture(VIDEO, { flipped: true });

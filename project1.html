@@ -29,22 +29,26 @@
             </div>
         </section>
 
-        <!-- 嵌入 p5.js 游戏 -->
+        <!-- embody -->
         <section class="game">
             <h2>🎮️PLAY THE GAME🎮️</h2>
             <p>Tips: Since the face recognition function needs to be enabled, please click the link in 🎮️TRY IT🎮️ on this page to jump to the game interface.  </p>
-            <div class="iframe-container">
+            <div id ="sketch-container"></div>
+            
+            <!-- <div class="iframe-container">
                 <iframe 
-                    src="https://editor.p5js.org/liuz423/sketches/Yqm4YJamQ" 
+                    src="./project1p5js/sketch.js" 
                     width="800" 
                     height="600" 
                     frameborder="0"
                     allowfullscreen>
                 </iframe>
-            </div>
+            </div> -->
         </section>
 
-        <!-- p5.js 链接 -->
+        
+
+        <!-- p5.js link -->
         <section class="p5-link">
             <h2>🎮️TRY IT🎮️</h2>
             <p>
@@ -77,7 +81,7 @@
 
     <!-- 背景音乐 -->
     <audio autoplay loop>
-        <source src="audio/project1.mp3" type="audio/mpeg">
+        <source src="videos/project1.mp4" type="audio/mpeg">
         您的浏览器不支持音频播放。
     </audio>
 
@@ -88,5 +92,7 @@
         </video>
         <p>&copy; 2024 我的作品集</p>
     </footer>
+
+    <script src="project1p5js/sketch.js"></script>
 </body>
 </html>

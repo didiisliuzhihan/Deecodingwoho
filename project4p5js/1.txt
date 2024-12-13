@@ -1,0 +1,20 @@
+My partners' name:
+Nadia, Lupita , Dee
+
+For original story background:
+1. It is a Blue Cat called Sonic who are pregnant now;
+2. it is a bad rabbit who just killed a poor monster and is holding its head and an eye now;
+3. a mashroom is thumbing up for you!
+
+A new background:
+Sonic darkened!
+He killed a single-eye people on the halloween!!
+Oh wait, why he lost his legs, instead having a marshroom leg! Oh...disgusted...
+
+Reflection:
+1. Used movement e.g.(keyIsDown(LEFT_ARROW) from last class. you can control  movement of the eye by keydown/up/left/right.
+2. Reviewed the if/let to control the speeds of drops;
+3. Starting to draw shapes by Beginshape and Endshape like.
+4. It's totally fun than boring coding assignments~
+5. But I feel difficult for the coordinate axis corresponding to the shape; it often spends time a lot.
+6. new stuff: To limitate the scope of movement, 

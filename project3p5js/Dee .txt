@@ -1,0 +1,9 @@
+Dee(zhihan liu)
+
+This assignment was incredibly difficult! Even though I changed and simplified my design concept, I still lost a lot of hair over it.
+
+My design this time was inspired by patterns found on traditional Chinese clothing, and I used loops and functions to make the patterns move, simulating the flow of fabric. I tried to make it look as realistic as possible.
+
+This was my first time using the concept of amplitude (amp) and applying code logic with functions and loops to create the pattern. It may look simple, but getting it to work was very challenging, with each step depending on the previous one. I referenced some classmates' assignments (haha...) and searched for the knowledge I needed on p5.js and YouTube. In the end, I asked a friend who studies coding for help.
+
+I think this could be developed into a new type of material with special patterns that create optical illusions, for use in conceptual fashion for the new generation; or it could be used in AR to add dynamic visual designs to ordinary clothing.

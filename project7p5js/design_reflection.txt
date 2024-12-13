@@ -1,0 +1,8 @@
+Design Process:
+I chose to use the classic Pac-Man game scene, integrating variables such as random().
+For the bean firing functionality, I tried learning how to make the bean function by watching YouTube tutorials.
+However, I still have many areas where I am uncertain, and the final result didn’t fully match the concept I had in my mind.
+I hope to improve my skills in the next class and create the ideal scene concept.
+
+Discovery:
+I discovered that with P5.js, I might be able to create a simple game with interactive feedback in the future. Let's see if I can achieve that.

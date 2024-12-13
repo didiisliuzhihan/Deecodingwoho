@@ -1,4 +1,4 @@
-/* 全局样式 */
+/* all */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -8,22 +8,22 @@ body {
     line-height: 1.6;
 }
 
-/* 页眉样式 */
+/* head */
 header {
     position: relative;
-    height: 200px; /* 页眉高度 */
+    height: 200px; /* height */
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     color: white;
     overflow: hidden;
-    background-color: black; /* 防止视频未加载时的背景色 */
+    background-color: black; /* bg */
 }
 
 header h1 {
     position: relative;
-    z-index: 2; /* 确保文字显示在视频上方 */
+    z-index: 2; /* text */
     font-size: 2rem;
     margin: 0;
 }
@@ -35,12 +35,12 @@ header img {
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover; /* 视频或图片充满页眉区域 */
+    object-fit: cover; /* head for video */
     z-index: 1;
-    opacity: 0.7; /* 半透明背景 */
+    opacity: 0.7; /* bg */
 }
 
-/* 正文样式 */
+/* center */
 main {
     padding: 2rem;
     max-width: 800px;
@@ -50,7 +50,7 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* 栏目样式 */
+/* Column Style */
 section {
     margin: 2rem auto;
     padding: 1rem;
@@ -59,7 +59,7 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* 项目展示区的样式 */
+/* project style */
 .project {
     margin-bottom: 1rem;
     padding: 1rem;
@@ -77,22 +77,22 @@ section {
     text-decoration: underline;
 }
 
-/* 页脚样式 */
+/* footer */
 footer {
     position: relative;
-    height: 150px; /* 页脚高度 */
+    height: 150px; /* heivght */
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     color: white;
     overflow: hidden;
-    background-color: black; /* 防止视频未加载时的背景色 */
+    background-color: black; /* bg */
 }
 
 footer p {
     position: relative;
-    z-index: 2; /* 确保文字显示在视频上方 */
+    z-index: 2; /* text on video */
     margin: 0;
 }
 
@@ -103,12 +103,12 @@ footer img {
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover; /* 视频或图片充满页脚区域 */
+    object-fit: cover; /* full */
     z-index: 1;
-    opacity: 0.7; /* 半透明背景 */
+    opacity: 0.7; /* bg */
 }
 
-/* 返回主页按钮样式 */
+/* home */
 .button {
     display: inline-block;
     padding: 10px 20px;
@@ -124,7 +124,7 @@ footer img {
     background-color: #45a049;
 }
 
-/* 图片与视频布局样式 */
+/* image and video */
 .media-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));

@@ -1,0 +1,20 @@
+A description of your Data Portrait. What was the personal habit you were trying to track?
+My stomach isn't very good, and I often fart around Nadia. It's time to start tracking the number of my farts.
+
+An instruction for the viewers on how to read your data portrait:
+You can see that this is a bar chart with the days as units, and the data is measured in the number of times. For example, 'Monday: 7 times' means I farted seven times on Monday. By looking at the height of the bars, you can also see that I farted the most on Saturday—that day I had hot pot and iced milk tea.
+
+Describe your design process. Include your numbered list and any other sketches or images that would help us better understand your process:
+1. I'm tracking the number of farts in real-time every day.
+2. To highlight the differences and average in the number of farts, I chose a bar chart, which reinforces this purpose.
+3. In the design, I embedded an image and audio—although the image was something I found on Pinterest, the audio was recorded by myself with my mouth, haha!
+4. When coding, I tried using more loops while also avoiding making the visuals too complex.
+5. I reviewed some code knowledge about bar chart animations with Nadia.
+
+4. Your overall reflection on the assignment:
+    1. What did you learn about yourself through the process of self-tracking?
+    I learned that My bad stomach is usually related to what I eat that day. For example, if I eat something too spicy or greasy, I'll fart a lot; eating something too cold also causes it.  
+    
+    2. What was gained / lost through the process of data visualization?
+    Gained: This is the first time I used those functions that can embed images and audio files.They gave me more effects to realize what I imagine.
+    Lost: I originally wanted to draw fart-shaped lines instead of normal bars, but it would be more complex for me. In this way, the visual effect didn't become more interesting.
